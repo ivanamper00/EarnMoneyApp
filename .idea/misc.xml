@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Ivan Amper/AndroidStudioProjects/kimtinviinthoicabn/app/src/main/res/drawable-v24/custom_bottom_sheet_items.xml" value="0.169" />
+        <entry key="..\:/Users/Ivan Amper/AndroidStudioProjects/kimtinviinthoicabn/app/src/main/res/drawable/custom_background_white.xml" value="0.132" />
+        <entry key="..\:/Users/Ivan Amper/AndroidStudioProjects/kimtinviinthoicabn/app/src/main/res/drawable/custom_circle_background.xml" value="0.139" />
+        <entry key="..\:/Users/Ivan Amper/AndroidStudioProjects/kimtinviinthoicabn/app/src/main/res/drawable/custom_indicator_teal.xml" value="0.132" />
+        <entry key="..\:/Users/Ivan Amper/AndroidStudioProjects/kimtinviinthoicabn/app/src/main/res/layout/activity_custom_web_view.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Ivan Amper/AndroidStudioProjects/kimtinviinthoicabn/app/src/main/res/layout/activity_main.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Ivan Amper/AndroidStudioProjects/kimtinviinthoicabn/app/src/main/res/layout/activity_splash.xml" value="0.15885416666666666" />
+        <entry key="..\:/Users/Ivan Amper/AndroidStudioProjects/kimtinviinthoicabn/app/src/main/res/layout/bottom_sheet_home.xml" value="0.18" />
+        <entry key="..\:/Users/Ivan Amper/AndroidStudioProjects/kimtinviinthoicabn/app/src/main/res/layout/dialog_loading.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Ivan Amper/AndroidStudioProjects/kimtinviinthoicabn/app/src/main/res/layout/fragment_details.xml" value="0.16458333333333333" />
+        <entry key="..\:/Users/Ivan Amper/AndroidStudioProjects/kimtinviinthoicabn/app/src/main/res/layout/fragment_home.xml" value="0.22" />
+        <entry key="..\:/Users/Ivan Amper/AndroidStudioProjects/kimtinviinthoicabn/app/src/main/res/layout/item_banner.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Ivan Amper/AndroidStudioProjects/kimtinviinthoicabn/app/src/main/res/layout/item_content_title.xml" value="0.5" />
+        <entry key="..\:/Users/Ivan Amper/AndroidStudioProjects/kimtinviinthoicabn/app/src/main/res/layout/item_home_buttons.xml" value="0.22" />
+        <entry key="..\:/Users/Ivan Amper/AndroidStudioProjects/kimtinviinthoicabn/app/src/main/res/layout/item_loading.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Ivan Amper/AndroidStudioProjects/kimtinviinthoicabn/app/src/main/res/layout/itemmodel_header_title.xml" value="0.33" />
+        <entry key="..\:/Users/Ivan Amper/AndroidStudioProjects/kimtinviinthoicabn/app/src/main/res/menu/bottom_nav_menu.xml" value="0.11614583333333334" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
